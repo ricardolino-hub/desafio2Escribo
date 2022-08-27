@@ -29,8 +29,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  bonfire: ^1.9.4
-  #bonfire: ^2.9.1
+  #bonfire: ^1.9.4
+  bonfire: ^2.9.1
   
 
 
@@ -64,6 +64,7 @@ flutter:
   assets:
     - assets/images/
     - assets/images/map/
+    - assets/images/map/objDot/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

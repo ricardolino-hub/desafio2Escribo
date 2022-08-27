@@ -1,4 +1,4 @@
-import 'package:desafio2escribo/MapPage.dart';
+import 'package:desafio2escribo/mapPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
